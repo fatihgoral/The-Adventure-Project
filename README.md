@@ -7,14 +7,10 @@
 ## 📜 İçerik
 
 - [🎮 Oyun Özellikleri](#-oyun-özellikleri)
-- [⚙️ Kurulum ve Çalıştırma](#️-kurulum-ve-çalıştırma)
 - [🏕️ Oyun Akışı](#-oyun-akışı)
-- [📁 Dosya Yapısı](#-dosya-yapısı)
 - [🧠 Karakter İstatistikleri](#-karakter-istatistikleri)
 - [🌟 Gelecek Planları](#-gelecek-planları)
 - [📷 Ekran Görüntüleri](#-ekran-görüntüleri)
-- [🤝 Katkıda Bulun](#-katkıda-bulun)
-- [📄 Lisans](#-lisans)
 
 ---
 
