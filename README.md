@@ -1,6 +1,6 @@
-# 🗡️ The Adventure Project
+#  The Adventure Project
 
-**"The Adventure Project"**, C programlama diliyle geliştirilmiş, metin tabanlı bir rol yapma oyunudur (RPG). Oyuncu, bir kahramanı canlandırarak çeşitli görevler üstlenir, kamp alanında dinlenir, hanlarda enerji toplar, şifahanede iyileşir, canavarlarla savaşır ve seviye atlayarak macerasını sürdürür. Klasik bir RPG deneyimini komut satırında yaşamak isteyenler için nostaljik ve yaratıcı bir projedir.
+**"The Adventure Project"**, C programlama diliyle geliştirilmiş bir oyundur. Oyuncu, bir kahramanı canlandırarak çeşitli görevler üstlenir, kamp alanında dinlenir, hanlarda enerji toplar, şifahanede iyileşir, canavarlarla savaşır ve seviye atlayarak macerasını sürdürür. Klasik bir RPG deneyimini komut satırında yaşamak isteyenler için nostaljik ve yaratıcı bir projedir.
 
 ---
 
